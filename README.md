@@ -31,17 +31,13 @@ Microsoft Excel • Experimental Design • Statistical Analysis • Translation
 
 ### 📂 Featured Projects
 
-#### 🔋 [Microbial Fuel Cells for Waste-to-Energy Conversion](https://github.com/yourusername/microbial-fuel-cell)
-Explores bacterial fuel cells using *Shewanella*, *Geobacter*, and *Rhodoferax* species for bioelectricity generation from simulated waste environments.  
-**Tools**: Anaerobic culturing • DIY + lab-grade MFC chambers • Substrate optimization
+#### 🧬 [Gene Expression Analysis for Pancreatic Cancer](https://github.com/yourusername/Pancreatic-Cancer-Analysis)
+Analyzes gene expression data related to pancreatic cancer using **TCGA** RNAseq data for *pancreatic adenocarcinoma* (PAAD).  
+**Dataset**: University of North Carolina TCGA Genome Characterization Center. (2017) • **RNA-seq** data from *Illumina HiSeq*.
 
-#### 🧬 [Therapeutic Mitochondrial Transplantation for Cancer](https://github.com/yourusername/mito-therapy)
-Designs experimental frameworks for restoring ATP production in dysfunctional cancer cells via mitochondrial transplantation.  
-**Focus**: HeLa/ρ⁰ cells • Differential centrifugation • Protocol development
+**Tools**: Python • Jupyter Notebooks • Data visualization (Matplotlib, Seaborn) • Bioinformatics libraries (Pandas, NumPy)  
+**Skills**: Data preprocessing • Statistical analysis • Gene expression analysis • Visualization
 
-#### ⛏️ [Biomining with *Sphingomonas desicabilis*](https://github.com/yourusername/sphingomonas-biomining)
-Characterizes iron tolerance in extremophile bacteria for potential heavy metal remediation and in-situ resource utilization.  
-**Skills**: Pilot experimental design • Aseptic technique • Gene sequencing
 
 ---
 
