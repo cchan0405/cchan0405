@@ -31,7 +31,7 @@ Microsoft Excel • Experimental Design • Statistical Analysis • Translation
 
 ### 📂 Featured Projects
 
-#### 🧬 [Gene Expression Analysis for Pancreatic Cancer](https://github.com/yourusername/Pancreatic-Cancer-Analysis)
+#### 🧬 [Gene Expression Analysis for Pancreatic Cancer](https://github.com/cchan0405/pancreatic_cancer_gene_expression)
 Analyzes gene expression data related to pancreatic cancer using **TCGA** RNAseq data for *pancreatic adenocarcinoma* (PAAD).  
 **Dataset**: University of North Carolina TCGA Genome Characterization Center. (2017) • **RNA-seq** data from *Illumina HiSeq*.
 
