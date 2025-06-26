@@ -1,6 +1,6 @@
 <h1 align="center">Hi there , I'm Chester Chan</h1>
 <p align="center">
-  💻 Aspiring Bioinformatics & Biotechnology Researcher |  Data & ML Enthusiast  
+   Aspiring Bioinformatics & Biotechnology Researcher |  Data & ML Enthusiast  
 </p>
 
 ---
@@ -15,7 +15,7 @@
 
 ---
 
-### 🔧 Skills & Tools
+###  Skills & Tools
 
 **Programming & Data Science**  
 Python (Pandas, Matplotlib, Seaborn, scikit-learn) • R • SQL  
@@ -64,4 +64,3 @@ Accession numbers: KF735813.1–KF735852.1. • **Reference Sequence** GenBank A
 
 ---
 
-⭐ *Thanks for visiting my profile! Check out my repositories or reach out if you'd like to collaborate on biotech, bioinformatics, or data science projects.*
